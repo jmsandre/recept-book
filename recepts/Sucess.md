@@ -2,7 +2,7 @@
 
 ## Sono
 
-- Dormir com maior qualidade
+- LDormir com maior qualidade
 - Exaustar o corpo e mente
 - Absorver Energia passivamente
 
@@ -15,3 +15,4 @@
 - Focar em horários mais silenciosos
 
   ​
+
